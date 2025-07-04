@@ -1,0 +1,17 @@
+{
+  "name": "projeto_gabriel_faculdade",
+  "version": "1.0.0",
+  "description": "Projeto de banco de dados desenvolvido na disciplina de Banco de Dados do curso de Sistemas de Informação da UNIFESSPA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "mysql2": "^3.14.1"
+  }
+}
